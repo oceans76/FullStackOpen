@@ -22,7 +22,7 @@ const App = () => {
       <button onClick={handleGood}>Good</button>
       <button onClick={handleNeutral}>Neutral</button>
       <button onClick={handleBad}>Bad</button>
-      <h2>Results</h2>
+      <h2>Statistics</h2>
       <p>Good:{good}</p>
       <p>Neutral:{neutral}</p>
       <p>Bad:{bad}</p>
